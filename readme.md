@@ -4,6 +4,8 @@
 
 The **Quiz App** is a simple interactive web-based application that presents multiple-choice questions to users. It keeps track of their progress, calculates their score, and displays the final result. This project is designed to help beginners practice working with JavaScript concepts such as arrays, objects, functions, and event handling.
 
+- The live preview [here](https://ozioma45.github.io/simple_quiz_app/).
+
 ## 🎯 Features
 
 - **Display Questions**: One question at a time with multiple-choice answers.
